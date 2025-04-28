@@ -160,7 +160,7 @@ This verification step ensures that the device has been properly registered with
 
 1. Open a web browser and go to [https://intune.microsoft.com](https://intune.microsoft.com).
 2. Sign in using administrator credentials.
-3. In the left-hand menu, select **Devices** \u2192 **All Devices**.
+3. In the left-hand menu, select **Devices** > **All Devices**.
 4. Search for the newly enrolled user's device.
 5. Confirm that the device is listed with a status of **Enrolled**, and check **Compliance** if applicable.
 
