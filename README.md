@@ -92,6 +92,7 @@ Microsoft licensing rules require specifying the country where the services will
 ![image](https://github.com/user-attachments/assets/12d57c8e-8542-42f2-af4f-f3b2fc7e7958)
 
 2. Fill in the user **Profile Info**
+
 ![image](https://github.com/user-attachments/assets/be39b575-9e0d-4288-8023-a0fcb70c8932)
 
 ---
