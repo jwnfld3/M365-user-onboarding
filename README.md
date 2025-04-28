@@ -54,13 +54,15 @@ Access to the Microsoft 365 Admin Center is required to create and manage user a
 3. Enter the following:
    - **First name** and **Last name** of the new employee.
    - **Display name** (e.g., John Doe).
-   - **Username** (e.g., jdoe@companydomain.com).
+   - **Username** (e.g., john.doe@companydomain.com).
 
 4. Choose **Automatically create a password** or **Manually create a password**.
 5. Check **Require this user to change their password when they first sign in** (recommended).
 
 **Explanation:**  
 Creating a user account provisions the identity needed for the employee to access Microsoft 365 services. Setting an initial password and enforcing a password change upon first login enhances security.
+
+![image](https://github.com/user-attachments/assets/9796a442-14b0-42e0-9201-80af0a68b53d)
 
 ---
 
@@ -86,6 +88,11 @@ Licenses must be assigned to activate the services required for the employee, in
 
 **Explanation:**  
 Microsoft licensing rules require specifying the country where the services will be used. Without a location, licenses cannot be properly assigned.
+
+![image](https://github.com/user-attachments/assets/12d57c8e-8542-42f2-af4f-f3b2fc7e7958)
+
+2. Fill in the user **Profile Info**
+![image](https://github.com/user-attachments/assets/be39b575-9e0d-4288-8023-a0fcb70c8932)
 
 ---
 
