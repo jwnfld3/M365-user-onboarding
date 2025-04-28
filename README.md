@@ -139,7 +139,7 @@ Using the Microsoft 365 account during device setup binds the device to Azure AD
 **Instructions:**
 
 1. After setup completes, log into the device.
-2. Go to **Settings** \u2192 **Accounts** \u2192 **Access work or school**.
+2. Go to **Settings** > **Accounts** > **Access work or school**.
 3. Confirm that the account is listed under **Connected to Azure AD** and **Managed by Intune**.
 
 **Explanation:**  
