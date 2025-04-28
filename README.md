@@ -162,13 +162,15 @@ This verification step ensures that the device has been properly registered with
 2. Sign in using administrator credentials.
 3. In the left-hand menu, select **Devices** > **All Devices**.
 
-![image](https://github.com/user-attachments/assets/c57355cd-bc97-4d4a-b3ab-486ea7908fc2)
+![image](https://github.com/user-attachments/assets/61b0d98b-f34a-4186-89b4-210e27be90dd)
 
 4. Search for the newly enrolled user's device.
 5. Confirm that the device is listed with a status of **Enrolled**, and check **Compliance** if applicable.
 
 **Explanation:**  
 Verification inside Microsoft Intune ensures the device is enrolled correctly. This is critical for automatic policy enforcement, security baselines, and application deployment within the company's mobile device management (MDM) framework.
+
+![image](https://github.com/user-attachments/assets/87c46bd6-7eeb-4859-acd9-48bff4077e36)
 
 ---
 
