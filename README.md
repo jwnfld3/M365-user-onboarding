@@ -1,4 +1,4 @@
-# Onboard a New User and Add Their Device in Microsoft 365 Admin Center
+# User Onboarding and Device Enrollment via Microsoft Intune
 
 ## Overview
 This lab demonstrates the full onboarding process for a new employee in a corporate environment, covering the creation of a Microsoft 365 user account, assignment of licenses, and enrollment of a new Windows device into Intune for management.
