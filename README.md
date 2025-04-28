@@ -130,6 +130,7 @@ Using the Microsoft 365 account during device setup binds the device to Azure AD
 ![image](https://github.com/user-attachments/assets/9087d18f-5bca-4924-92d4-68566f7713a4)
 ![image](https://github.com/user-attachments/assets/3e7c2a0e-30fd-49f8-9980-e81afa1f856c)
 ![image](https://github.com/user-attachments/assets/5bf6066d-051d-4876-8f2b-6d630d73efab)
+![image](https://github.com/user-attachments/assets/88ba093f-8108-47db-a09b-488073d48e5b)
 
 ---
 
