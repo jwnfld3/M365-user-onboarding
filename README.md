@@ -140,10 +140,17 @@ Using the Microsoft 365 account during device setup binds the device to Azure AD
 
 1. After setup completes, log into the device.
 2. Go to **Settings** > **Accounts** > **Access work or school**.
-3. Confirm that the account is listed under **Connected to Azure AD** and **Managed by Intune**.
+
+![image](https://github.com/user-attachments/assets/42369fc1-d8ad-4f10-8987-12f535462dcb)
+![image](https://github.com/user-attachments/assets/b167bd36-6b59-485a-b282-e44c05f930ab)
+![image](https://github.com/user-attachments/assets/789d4a5d-609d-4245-ab52-92037b05ac98)
+
+3. Confirm that the account is listed under **Connected to (Organization name) Entra ID**
 
 **Explanation:**  
-This verification step ensures that the device has been properly registered with Azure Active Directory and is managed by Intune. Without this, security policies and application deployments will not apply.
+This verification step ensures that the device has been properly registered with Entra ID and is managed by Intune. Without this, security policies and application deployments will not apply.
+
+![image](https://github.com/user-attachments/assets/99073d57-b2eb-4a60-bc1b-50a336e745bd)
 
 ---
 
