@@ -108,6 +108,8 @@ Microsoft licensing rules require specifying the country where the services will
 **Explanation:**  
 Finalizing the creation process confirms that the new user is now part of the organization's tenant and will be ready for device enrollment.
 
+![image](https://github.com/user-attachments/assets/efe5f5d0-a501-4af5-8a09-9de318d1b501)
+
 ---
 
 ## Step 6: Prepare the Device for Enrollment
