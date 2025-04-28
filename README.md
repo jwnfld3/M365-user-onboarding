@@ -126,6 +126,11 @@ Finalizing the creation process confirms that the new user is now part of the or
 **Explanation:**  
 Using the Microsoft 365 account during device setup binds the device to Azure AD and automatically triggers enrollment into Intune (if Automatic Enrollment is enabled), ensuring the device is secured and managed right from the start.
 
+![image](https://github.com/user-attachments/assets/8786e53d-310d-4dae-9911-b68cea330dfd)
+![image](https://github.com/user-attachments/assets/9087d18f-5bca-4924-92d4-68566f7713a4)
+![image](https://github.com/user-attachments/assets/3e7c2a0e-30fd-49f8-9980-e81afa1f856c)
+![image](https://github.com/user-attachments/assets/5bf6066d-051d-4876-8f2b-6d630d73efab)
+
 ---
 
 ## Step 7: Confirm the Device Enrollment in Intune
